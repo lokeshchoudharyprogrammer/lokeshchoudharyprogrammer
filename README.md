@@ -11,7 +11,7 @@
 lokeshchoudharyprogrammer/lokeshchoudharyprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-  <div style="dispaly:flex,align-item:center,font-size:100px">
+  <div dispaly="flex" align-item="center" font-size="100px">
 
   Hi 👋, I'm Choudhary
 </div>
