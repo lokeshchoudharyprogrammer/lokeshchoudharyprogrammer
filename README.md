@@ -62,4 +62,4 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <!-- ⭐️ From [kumawatlalit912]([https://github.com/kumawatlalit912](https://github.com/lokeshchoudharyprogrammer)) -->
-  
+  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=56e651&bar_color_cover=false)]]
