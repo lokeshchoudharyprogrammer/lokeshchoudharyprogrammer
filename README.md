@@ -12,6 +12,8 @@ lokeshchoudharyprogrammer/lokeshchoudharyprogrammer is a ✨ special ✨ reposit
 You can click the Preview link to take a look at your changes.
 --->
   <p  align="center">
-
+<h2>
   Hi 👋, I'm Lokesh Choudhary
+
+</h2>
 </p>
