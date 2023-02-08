@@ -47,6 +47,9 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer&theme=onedark) -->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokeshchoudharyprogrammer&theme=neon-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
   
@@ -61,5 +64,7 @@ You can click the Preview link to take a look at your changes.
 &nbsp; <a href="mailto:lokeshchoudhary2026@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+
 <!-- ⭐️ From [kumawatlalit912]([https://github.com/kumawatlalit912](https://github.com/lokeshchoudharyprogrammer)) -->
-  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=56e651&bar_color_cover=false)]]
+<!--   [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=56e651&bar_color_cover=false)]]
+ -->
