@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats) -->
 
 <br>
 
@@ -49,9 +49,9 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
-
+ -->
 
 
 
