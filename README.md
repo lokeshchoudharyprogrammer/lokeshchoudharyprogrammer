@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokeshchoudharyprogrammer&theme=neon-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
