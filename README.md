@@ -35,7 +35,8 @@ You can click the Preview link to take a look at your changes.
 - 💻 &nbsp;  JavaScript | React | C++ |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
 - 🛢 &nbsp;  Firebase | Postman
-- 🔧 &nbsp;   Visual Studio code  | Git
+- 🔧 &nbsp; Google Collab |  Visual Studio code  | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
 <!-- 
@@ -51,8 +52,11 @@ You can click the Preview link to take a look at your changes.
 </br>
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer&theme=onedark) -->
+<div display="flex",align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer)
+
+</div>
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lokeshchoudharyprogrammer&theme=neon-dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
   
