@@ -35,8 +35,7 @@ You can click the Preview link to take a look at your changes.
 - 💻 &nbsp;  JavaScript | React | C++ |MERN  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind 
 - 🛢 &nbsp;  Firebase | Postman
-- 🔧 &nbsp; Google Collab |  Visual Studio code  | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+- 🔧 &nbsp;   Visual Studio code  | Git
 
 
 <!-- 
