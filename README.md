@@ -16,6 +16,10 @@ You can click the Preview link to take a look at your changes.
   Hi 👋, I'm Lokesh Choudhary
 
 </h2>
+<marquee width="60%" direction="left" height="100px">
+This is a sample scrolling text that has scrolls texts to left.
+</marquee>
+
 </p> -->
   <h1> Hey there! I'm Lokesh Choudhary 👋 </h1>
 <h2> A Passionate Software Developer From India 🇮🇳 </h2>
