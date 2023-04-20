@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
   Hi 👋, I'm Lokesh Choudhary
 
 </h2>
+Lokesh
 <marquee direction="left">
 This is a sample scrolling text that has scrolls texts to left.
 </marquee>
