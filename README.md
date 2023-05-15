@@ -14,8 +14,8 @@
 
 - 🔭 &nbsp; I’m currently learning React and React Native for Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; full-stack developer.
+- 🎓 &nbsp; Studying Computer Science, Computer programming.
+- 💼 &nbsp; Full-Stack Developer.
  
 - ✍️ &nbsp; Watching universe and trying out latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
