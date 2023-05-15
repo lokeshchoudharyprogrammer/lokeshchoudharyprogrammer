@@ -39,10 +39,10 @@ This is a sample scrolling text that has scrolls texts to left.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  JavaScript | React | C++ |MERN  
+- 💻 &nbsp;  JavaScript | React | C++ | MERN  
 - 🌐 &nbsp; React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind | Typescript | NodeJs | ExpressJs | MongoDb
-- 🛢 &nbsp;  Firebase | Postman | 
-- 🔧 &nbsp; Visual Studio code  | Git | Mongo Campass | GitHub 
+- 🛢 &nbsp;  Firebase | Postman 
+- 🔧 &nbsp; Visual Studio code  | Git | Mongo Campass | GitHub | Netlify | Vercel
 
 
 
