@@ -5,23 +5,6 @@
   
 </p>
 
-
-<!-- <a href="https://app.daily.dev/lokeshchoudhary"><img src="https://api.daily.dev/devcards/3460041cbed442cabd6eb83cfcbe069a.png?r=na2" width="400" alt="Lokesh Choudhary's Dev Card"/></a> -->
-<!---
-lokeshchoudharyprogrammer/lokeshchoudharyprogrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!--   <p margin="auto" align="center">
-<h2>
-  Hi 👋, I'm Lokesh Choudhary
-
-</h2>
-Lokesh
-<marquee direction="left">
-This is a sample scrolling text that has scrolls texts to left.
-</marquee>
-
-</p> -->
   <h1> Hey there! I'm Lokesh Choudhary 👋 </h1>
 <h2> A Passionate Software Developer From India 🇮🇳 </h2>
 
@@ -46,19 +29,16 @@ This is a sample scrolling text that has scrolls texts to left.
 
 
 
-<!-- 
-<a [href*='/'] -->
  - My portfolio => <a href="https://lokeshchoudharyprogrammer.github.io/">Portfolio</a>
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats) -->
 
 <br>
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats"> -->
 
 </br>
+</hr>
+</hr>
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer&theme=onedark) -->
 <div display="flex",align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer)
@@ -81,7 +61,3 @@ This is a sample scrolling text that has scrolls texts to left.
 </p>
 
 
-
-<!-- ⭐️ From [kumawatlalit912]([https://github.com/kumawatlalit912](https://github.com/lokeshchoudharyprogrammer)) -->
-<!--   [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31wssqha7fmpwntuwyheb3hxxoay&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=56e651&bar_color_cover=false)]]
- -->
