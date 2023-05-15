@@ -48,7 +48,7 @@ This is a sample scrolling text that has scrolls texts to left.
 
 <!-- 
 <a [href*='/'] -->
-<a href="https://lokeshchoudharyprogrammer.github.io/">Portfolio</a>
+ - My portfolio => <a href="https://lokeshchoudharyprogrammer.github.io/">Portfolio</a>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats) -->
 
