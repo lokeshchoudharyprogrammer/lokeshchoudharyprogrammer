@@ -87,5 +87,7 @@
 <!-- 
 https://gprm.itsvg.in/ 
 -->
-<figure><embed src="https://wakatime.com/share/@lokeshchoudhary/e5e6731b-fcff-4431-8259-080655abae8f.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@lokeshchoudhary/e5e6731b-fcff-4431-8259-080655abae8f.svg"></embed>
+</figure>
 
