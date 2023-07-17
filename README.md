@@ -64,7 +64,6 @@
 &nbsp; <a href="mailto:lokeshchoudhary2026@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@lokeshchoudhary/5bfad54f-6fb5-4171-9d68-9816dd3457b9.svg"></embed></figure>
 
 
 
@@ -91,3 +90,6 @@ https://gprm.itsvg.in/
   <embed src="https://wakatime.com/share/@lokeshchoudhary/e5e6731b-fcff-4431-8259-080655abae8f.svg"></embed>
 </figure>
 
+<figure>
+  <embed src="https://wakatime.com/share/@lokeshchoudhary/5bfad54f-6fb5-4171-9d68-9816dd3457b9.svg"></embed>
+</figure>
