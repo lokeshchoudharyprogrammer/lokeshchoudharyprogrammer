@@ -51,8 +51,12 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@lokeshchoudhary/c1f4184c-1599-46f0-bb47-b22da0068da6.svg"></embed></figure>
 
 
+
+
+  <img src="https://wakatime.com/share/@lokeshchoudhary/a54f921e-7900-49c2-a811-a5bb853d920a.svg" alt="Avatar" width="500px" style="border-radius: 2%; border: 2px solid black; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;">
 </br>
 
 <h3> 🤝🏻 Connect with Me  </h3>
@@ -86,10 +90,3 @@
 <!-- 
 https://gprm.itsvg.in/ 
 -->
-<figure>
-  <embed src="https://wakatime.com/share/@lokeshchoudhary/e5e6731b-fcff-4431-8259-080655abae8f.svg"></embed>
-</figure>
-
-<figure>
-  <embed src="https://wakatime.com/share/@lokeshchoudhary/5bfad54f-6fb5-4171-9d68-9816dd3457b9.svg"></embed>
-</figure>
