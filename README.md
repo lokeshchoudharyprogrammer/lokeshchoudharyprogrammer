@@ -36,8 +36,8 @@
 [![Python Badge](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=%23F7DF1E)](https://www.python.org)
 
 
+Check out [my portfolio](https://lokeshchoudharyprogrammer.github.io/) to see my projects and experience.
 
- - My portfolio => <a href="https://lokeshchoudharyprogrammer.github.io/">Portfolio</a>
 
 ![lokeshchoudharyprogrammer's Stats](https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
