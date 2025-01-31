@@ -25,8 +25,7 @@
 
 
 ---
-![Peerlist](https://github-readme-badge.peerlist.io/api/lokeshchoudhary?style=social)
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/lokeshchoudhary?style=for-the-badge)](https://peerlist.io/lokeshchoudhary)
 
 [![wakatime](https://wakatime.com/badge/user/a395be9f-c3c1-4be5-977e-cb0b326f9770.svg)](https://wakatime.com/@a395be9f-c3c1-4be5-977e-cb0b326f9770)
 
