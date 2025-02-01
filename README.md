@@ -20,8 +20,9 @@
 ---
 
 ### 🚀 Tech Stack:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,nodejs,express,mongodb,vercel,netlify,html,css,tailwind,bootstrap,postman,firebase,postgresql,prisma,cloudflare,docker,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,nodejs,express,mongodb,postgresql,vercel,prisma,vercel,netlify,html,css,tailwind,bootstrap,mui,postman,firebase,cloudflare,docker,kubernetes"/>
 </p>
 
 ---
@@ -46,7 +47,7 @@
 
 ### 🤝🏻 Connect with Me:
 <p align="center">
-  <a href="https://x.com/itscrazylokesh" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/lokesh2026" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/lokeshchoudharyprogrammer/" target="_blank" rel="noopener noreferrer">
