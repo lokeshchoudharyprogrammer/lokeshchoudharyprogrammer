@@ -22,7 +22,7 @@
 ### 🚀 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,nodejs,express,mongodb,postgresql,vercel,prisma,vercel,netlify,html,css,tailwind,bootstrap,mui,postman,firebase,cloudflare,docker,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,redux,aws,nodejs,express,mongodb,postgresql,git,prisma,vercel,netlify,html,css,tailwind,bootstrap,mui,postman,firebase,cloudflare,docker,kubernetes,bitbucket,c,cpp,nextjs,linux,jest,kafka,ai,github,cypress,deno,bitbucket,codepen,vscode,supabase,redis"/>
 </p>
 
 ---
