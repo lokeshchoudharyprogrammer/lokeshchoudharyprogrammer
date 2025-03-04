@@ -58,9 +58,7 @@
   <a href="https://www.linkedin.com/in/lokeshchoudharyprogrammer/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://peerlist.io/lokeshchoudhary" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Peerlist-%231DA1F2.svg?style=for-the-badge&logo=peerlist&logoColor=white"/>
-  </a>
+ 
 </p>
 
 ---
