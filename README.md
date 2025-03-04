@@ -28,11 +28,17 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshchoudharyprogrammer&theme=vue-dark&hide_border=true"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=lokeshchoudharyprogrammer&theme=darkhub"/>
+  <a href="https://github.com/lokeshchoudharyprogrammer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" />
+  </a>
+  <br><br>
+  <a href="https://github.com/lokeshchoudharyprogrammer">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshchoudharyprogrammer&theme=darkhub&hide_border=true" />
+  </a>
+  <br><br>
+  <a href="https://github.com/lokeshchoudharyprogrammer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  </a>
 </div>
 
 ---
