@@ -27,8 +27,10 @@
 ---
 
 ### 📊 GitHub Stats:
+  ![lokeshchoudharyprogrammer's Stats](https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+  ![lokeshchoudharyprogrammer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 <div align="center">
-  <a href="https://github.com/lokeshchoudharyprogrammer">
+  <!-- <a href="https://github.com/lokeshchoudharyprogrammer">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" />
   </a>
   <br><br>
@@ -38,7 +40,7 @@
   <br><br>
   <a href="https://github.com/lokeshchoudharyprogrammer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  </a>
+  </a> -->
 </div>
 
 ---
