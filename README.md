@@ -25,22 +25,21 @@
 </p>
 
 ---
+ 
 
 ### 📊 GitHub Stats:
-  ![lokeshchoudharyprogrammer's Stats](https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-  ![lokeshchoudharyprogrammer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-<div align="center">
-  <!-- <a href="https://github.com/lokeshchoudharyprogrammer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&show_icons=true&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true" />
+ <div align="center">
+  <a href="https://github.com/lokeshchoudharyprogrammer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshchoudharyprogrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <br><br>
   <a href="https://github.com/lokeshchoudharyprogrammer">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshchoudharyprogrammer&theme=darkhub&hide_border=true" />
+    <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=lokeshchoudharyprogrammer&theme=dark&hide_border=false" />
   </a>
   <br><br>
   <a href="https://github.com/lokeshchoudharyprogrammer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=darkhub&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  </a> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshchoudharyprogrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  </a>
 </div>
 
 ---
